@@ -80,10 +80,10 @@ public class EjemploSOLID {
     
 //Principio de Responsabilidad única    
 class JuegoDB{  
-    void guardarCocheDB(Juego juego){
+    void guardarJuegoDB(Juego juego){
         
     }
-    void eliminarCocheDB(Juego juego){
+    void eliminarJuegoDB(Juego juego){
         
     }
 }
