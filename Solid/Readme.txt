@@ -5,5 +5,5 @@ Principios SOLID de:
 
 Presentado por:
   - Jorge Daniel Gomez Vanegas - 20161020101
-  - Brayan(?)
+  - Brayan Steven Arellano Espinosa - 20191020151
   - Hanna Villamil Ortiz - 20161150007
