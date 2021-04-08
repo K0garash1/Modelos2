@@ -39,7 +39,7 @@ public class EjemploSOLID {
         abstract int cantidad_de_jugadores();
     }
     // principio de Abierto cerrado extendiendo la clase Juego
-    public class JuegoTerror extends Juego{
+    public static class JuegoTerror extends Juego{
         
         public JuegoTerror(String nombre) {
             super(nombre);
@@ -52,7 +52,7 @@ public class EjemploSOLID {
         
     }
     
-    public class JuegoAventura extends Juego {
+    public static class JuegoAventura extends Juego {
 
         public JuegoAventura(String nombre) {
             super(nombre);
@@ -65,7 +65,7 @@ public class EjemploSOLID {
         
     }
 
-    public class JuegoDisparos extends Juego {
+    public static class JuegoDisparos extends Juego {
 
         public JuegoDisparos (String nombre) {
             super(nombre);
